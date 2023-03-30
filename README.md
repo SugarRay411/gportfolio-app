@@ -1,5 +1,5 @@
 # Gportfolio-APP
-The application will host a multi-tier web application stack [Gportfolio] using vagrant. Host and run the project on AWS cloud production. I employed a lift and shift strategy on the project.
+The application hosted a multi-tier web application stack [Gportfolio] using vagrant. Host and run the project on AWS cloud production. I employed a lift and shift strategy on the project.
 
 AWS SERVICES
 Ec2 instances were employed for the creation of VM for Tomcat, RabbitMQ, Memcache, and MySQL services.
