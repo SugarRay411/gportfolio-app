@@ -1,5 +1,5 @@
 # Gportfolio-APP
-The application hosted a multi-tier web application stack [Gportfolio] using vagrant. Host and run the project on AWS cloud production. I employed a lift and shift strategy on the project.
+This project involved hosting a multi-tier web application stack called Gportfolio on AWS cloud production using a lift and shift strategy. It employed various AWS services such as EC2 instances, Elastic Load Balancer, Auto Scaling, S3, Route 53, and IAM user. The flow of execution involved creating key pairs, security groups, launching instances, updating private IP, building the application, and setting up ELB and auto scaling.
 
 AWS SERVICES
 Ec2 instances were employed for the creation of VM for Tomcat, RabbitMQ, Memcache, and MySQL services.
